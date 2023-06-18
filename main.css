@@ -1,0 +1,181 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+.clear {
+    clear: both;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Lato:wght@900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,600;0,700;1,100;1,200;1,300;1,500;1,600;1,700;1,800;1,900&family=Poppins:wght@100;300;400;500;700;800;900&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #000;
+}
+
+
+.section-1 .navbar .myName {
+    font-size: 3.3vh;
+}
+
+.section-1 .navbar nav a {
+    border-bottom : solid 3px black;
+}
+
+.section-1 .navbar nav a:hover {
+    border-bottom: solid 3px goldenrod;
+}
+
+/* Banner part of the website */
+
+.section-2 .col-left p {
+    letter-spacing: 4px;
+}
+
+.section-2 .col-left h3 span {
+    color : #fff;
+}
+
+.section-2 .col-left .leadd {
+    font-size : 2.8vh;
+    letter-spacing: 0px;
+}
+
+.section-2 .col-left .btn {
+    font-size:1.3vh;
+}
+
+.section-2 .col-left .rounded-pill {
+    font-weight :normal;
+}
+
+.section-2 .col-left .btn-outline-warning:hover {
+    color :#000;
+}
+
+/* Section-3 part of the Website */
+
+.section-3 .col-right {
+    position:relative;
+}
+
+.section-3 .col-md-6 h2 {
+    height : 500px;
+}
+
+.section-3 .col-right h3 {
+    color: #1a1a1a;
+    font-size : 17vh;
+    font-weight: 900;
+    top : 20px;
+    z-index : 0;
+    position: absolute;
+   
+}
+
+.section-3 .col-right .benaras-quote {
+    color :#828282;
+    font-size: 2vh;
+    z-index : 1;
+    top : 85px;
+    line-height : 30px;
+    position: absolute;
+}
+
+.section-3 .col-right .detail-table {
+    position :absolute;
+    top :210px;
+}
+
+.section-3 .col-right .detail-table td {
+    color :#828282;
+}
+
+.section-3 .col-right .project {
+    position :absolute;
+    top : 470px;
+    font-size : 2.3vh;
+    font-weight : 500;
+}
+
+.section-3 .col-right button {
+    position: absolute;
+    bottom : -80px;
+}
+
+/* Resume Part of the Website  */
+
+.section-4 .col-12 .display-1 {
+    font-size : 17vh;
+    margin : -60px;
+    letter-spacing: 2px;
+}
+
+.section-5 .col-6 .list-unstyled {
+    background-color : #1a1a1a;
+}
+
+.section-5 .col-6 .list-unstyled h6 {
+    font-size: 2.5vh;
+}
+
+.section-5 .col-6 .list-unstyled .degree-line {
+    font-size : 2.5vh;
+}
+
+.section-5 .col-6 .list-unstyled p1 {
+    color :#828282;
+    font-size : 1.7vh;
+    letter-spacing: 3px;
+}
+
+.section-5 .col-6 .list-unstyled .large-text {
+    color :#828282;
+    font-size : 1.9vh;
+    text-align: justify;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
